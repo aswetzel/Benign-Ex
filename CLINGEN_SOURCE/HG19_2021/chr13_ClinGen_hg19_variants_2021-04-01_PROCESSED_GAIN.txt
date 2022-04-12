@@ -1,0 +1,271 @@
+chr13	19327343	19380812	nssv1608976	Benign	gain
+chr13	19327343	19380812	nssv1608977	Benign	gain
+chr13	19327343	19380812	nssv583565	Benign	gain
+chr13	19571502	19753683	nssv13654526	Uncertain significance: likely benign	gain
+chr13	19858136	20053741	nssv1609016	Uncertain significance: likely benign	gain
+chr13	20026164	20129722	nssv1609021	Benign	gain
+chr13	20077548	20579257	nssv707131	Uncertain_Significance	gain
+chr13	20095294	20608465	nssv13655830	Uncertain_Significance	gain
+chr13	20129769	20270775	nssv13647697	Uncertain_Significance	gain
+chr13	20129769	20359000	nssv13644469	Uncertain_Significance	gain
+chr13	20129769	20600603	nssv13649292	Uncertain_Significance	gain
+chr13	20206539	20579257	nssv582369	Uncertain_Significance	gain
+chr13	20208068	20436518	nssv13640398	Uncertain significance: likely benign	gain
+chr13	20208068	20436518	nssv13644274	Uncertain significance: likely benign	gain
+chr13	20208068	20530643	nssv13653139	Uncertain significance: likely benign	gain
+chr13	20321759	21255354	nssv13645927	Uncertain_Significance	gain
+chr13	20333329	115085141	nssv13643569	Uncertain_Significance	gain
+chr13	20392227	20521989	nssv1608985	Uncertain significance: likely benign	gain
+chr13	20397453	20431280	nssv1610516	Uncertain_Significance	gain
+chr13	20398448	20436518	nssv13653184	Benign	gain
+chr13	20411534	20530702	nssv581944	Benign	gain
+chr13	20413887	20447913	nssv13642981	Uncertain_Significance	gain
+chr13	20413887	20447913	nssv13644535	Uncertain_Significance	gain
+chr13	20413887	20447913	nssv13653342	Uncertain_Significance	gain
+chr13	20413887	20447913	nssv13654307	Uncertain_Significance	gain
+chr13	20413887	20447913	nssv13655563	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13638460	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13639144	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13640926	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13642888	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13642947	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13644954	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13645265	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13646125	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13646851	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13647825	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13647918	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13648119	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13648743	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13649536	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13650067	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13650458	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13651218	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13652412	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13652530	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13652609	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13652747	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13653098	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13653452	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13653584	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13654229	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13655005	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13656310	Uncertain_Significance	gain
+chr13	20413887	20459537	nssv13656486	Uncertain_Significance	gain
+chr13	20415684	20445336	nssv1601891	Uncertain significance: likely benign	gain
+chr13	20415684	20445336	nssv1602311	Uncertain significance: likely benign	gain
+chr13	20415684	20445336	nssv1602567	Uncertain significance: likely benign	gain
+chr13	20415684	20447972	nssv1601659	Uncertain significance: likely benign	gain
+chr13	20415684	20447972	nssv1601928	Uncertain significance: likely benign	gain
+chr13	20415684	20447972	nssv1602800	Uncertain significance: likely benign	gain
+chr13	20415684	20447972	nssv1604188	Uncertain significance: likely benign	gain
+chr13	20419132	20445461	nssv581991	Benign	gain
+chr13	20419349	20445336	nssv1604836	Uncertain significance: likely benign	gain
+chr13	20425450	20445320	nssv582058	Benign	gain
+chr13	20431279	20796209	nssv585306	Uncertain_Significance	gain
+chr13	20808543	21370228	nssv1608853	Uncertain_Significance	gain
+chr13	21728319	21742457	nssv13650661	Benign	gain
+chr13	21738815	23376330	nssv583130	Uncertain_Significance	gain
+chr13	22278495	23288209	nssv13640965	Uncertain_Significance	gain
+chr13	22541868	23077779	nssv579418	Benign	gain
+chr13	22665448	23721103	nssv584543	Uncertain significance: likely benign	gain
+chr13	23246926	24063637	nssv580810	Uncertain_Significance	gain
+chr13	23338424	25018754	nssv706327	Uncertain significance: likely benign	gain
+chr13	23515513	24860280	nssv580174	Uncertain_Significance	gain
+chr13	23517983	23619382	nssv1608987	Benign	gain
+chr13	23517983	23795488	nssv583572	Benign	gain
+chr13	23517983	24910684	nssv1608983	Uncertain_Significance	gain
+chr13	23517983	24929431	nssv1602205	Uncertain significance: likely benign	gain
+chr13	23517983	24929431	nssv1608124	Uncertain_Significance	gain
+chr13	23533357	24958572	nssv1608309	Uncertain_Significance	gain
+chr13	23554382	23893680	nssv13650392	Uncertain_Significance	gain
+chr13	23554477	24937582	nssv580175	Uncertain_Significance	gain
+chr13	23554503	24910684	nssv1608980	Uncertain_Significance	gain
+chr13	23554503	24944619	nssv1495444	Uncertain_Significance	gain
+chr13	23566761	24910884	nssv580176	Uncertain_Significance	gain
+chr13	23566961	24910743	nssv3396268	Uncertain_Significance	gain
+chr13	23566961	24910743	nssv575650	Uncertain_Significance	gain
+chr13	23566961	24910743	nssv582668	Uncertain_Significance	gain
+chr13	23566961	24910743	nssv582944	Uncertain_Significance	gain
+chr13	23566961	24910743	nssv583083	Uncertain_Significance	gain
+chr13	23746616	24245348	nssv580811	Uncertain_Significance	gain
+chr13	23816340	23893534	nssv13651594	Uncertain_Significance	gain
+chr13	23981972	24479811	nssv13648580	Uncertain_Significance	gain
+chr13	24776252	24910684	nssv583573	Benign	gain
+chr13	24827682	25108874	nssv1602809	Uncertain significance: likely benign	gain
+chr13	24842994	25018758	nssv13647879	Uncertain_Significance	gain
+chr13	24937537	25478384	nssv580812	Uncertain_Significance	gain
+chr13	25020121	25810823	nssv13652804	Uncertain_Significance	gain
+chr13	25209586	26166926	nssv580813	Uncertain_Significance	gain
+chr13	25877057	26445960	nssv13653813	Uncertain_Significance	gain
+chr13	25985057	26179463	nssv1415092	Uncertain_Significance	gain
+chr13	27416493	27641229	nssv581537	Benign	gain
+chr13	27876781	28070687	nssv1608739	Uncertain significance: likely benign	gain
+chr13	28152001	29117192	nssv13639630	Uncertain_Significance	gain
+chr13	29141131	29962069	nssv582967	Uncertain_Significance	gain
+chr13	29753376	29891059	nssv13647244	Uncertain_Significance	gain
+chr13	30342673	30887946	nssv13651174	Uncertain_Significance	gain
+chr13	30404903	30467799	nssv1608746	Uncertain significance: likely benign	gain
+chr13	31729645	31835742	nssv13647459	Uncertain significance: likely benign	gain
+chr13	31729645	31858813	nssv585034	Uncertain significance: likely benign	gain
+chr13	31846980	32194074	nssv13640540	Uncertain_Significance	gain
+chr13	31898522	32565368	nssv13642527	Uncertain_Significance	gain
+chr13	32937292	33208417	nssv1610344	Uncertain_Significance	gain
+chr13	33284096	34061846	nssv1609359	Uncertain_Significance	gain
+chr13	34061829	34263829	nssv13645298	Uncertain_Significance	gain
+chr13	34328605	37516274	nssv580814	Uncertain_Significance	gain
+chr13	37730505	39585009	nssv3397447	Uncertain_Significance	gain
+chr13	38550448	39132813	nssv1495689	Uncertain significance: likely benign	gain
+chr13	40434704	44154541	nssv1602480	Uncertain_Significance	gain
+chr13	40791938	41173483	nssv13643541	Uncertain significance: likely benign	gain
+chr13	41706730	41766924	nssv13651556	Uncertain_Significance	gain
+chr13	42009243	42513396	nssv13649350	Uncertain_Significance	gain
+chr13	42149811	42734566	nssv13641249	Uncertain_Significance	gain
+chr13	42259281	42416312	nssv13644714	Uncertain_Significance	gain
+chr13	42259281	42416312	nssv13647909	Uncertain_Significance	gain
+chr13	43277670	43987235	nssv582987	Uncertain_Significance	gain
+chr13	43360442	43899202	nssv1495442	Uncertain_Significance	gain
+chr13	43472068	43702524	nssv13648842	Uncertain_Significance	gain
+chr13	43472068	43831953	nssv13638348	Uncertain_Significance	gain
+chr13	43472068	43848777	nssv13653010	Uncertain_Significance	gain
+chr13	43500387	43731858	nssv13649598	Uncertain significance: likely benign	gain
+chr13	43517143	43793461	nssv1608988	Uncertain significance: likely benign	gain
+chr13	43793460	43937487	nssv13651086	Uncertain significance: likely benign	gain
+chr13	45544636	45759604	nssv13643774	Uncertain_Significance	gain
+chr13	46264163	46346846	nssv1608979	Uncertain significance: likely benign	gain
+chr13	47343287	47367574	nssv13649277	Uncertain_Significance	gain
+chr13	49165873	50638624	nssv3394970	Uncertain_Significance	gain
+chr13	50050918	50290245	nssv1602279	Uncertain significance: likely benign	gain
+chr13	50092220	50290186	nssv13641023	Uncertain_Significance	gain
+chr13	50106549	50202733	nssv13652127	Uncertain_Significance	gain
+chr13	52024104	52489676	nssv13646392	Uncertain_Significance	gain
+chr13	52024104	52492525	nssv13650041	Uncertain_Significance	gain
+chr13	52150870	52272652	nssv583571	Benign	gain
+chr13	52291801	52832752	nssv580816	Uncertain_Significance	gain
+chr13	52714927	52920210	nssv13638381	Uncertain_Significance	gain
+chr13	52728501	53211799	nssv13647339	Uncertain_Significance	gain
+chr13	52761105	52955598	nssv13656523	Uncertain_Significance	gain
+chr13	52793641	52893811	nssv1609018	Benign	gain
+chr13	52955693	55067489	nssv583563	Uncertain_Significance	gain
+chr13	53191673	53307458	nssv13643312	Uncertain_Significance	gain
+chr13	53317090	53789349	nssv13649781	Uncertain_Significance	gain
+chr13	54882977	55154006	nssv13654993	Uncertain_Significance	gain
+chr13	57231917	58088071	nssv1604940	Uncertain significance: likely benign	gain
+chr13	57511175	57913467	nssv13648207	Uncertain_Significance	gain
+chr13	57511175	57913467	nssv13653031	Uncertain_Significance	gain
+chr13	60458121	61838176	nssv13650671	Uncertain_Significance	gain
+chr13	60458121	61838176	nssv13651630	Uncertain_Significance	gain
+chr13	60623428	61453435	nssv1415093	Uncertain significance: likely benign	gain
+chr13	60623481	61453583	nssv13639431	Uncertain_Significance	gain
+chr13	61660180	63785757	nssv14082280	Uncertain significance: likely benign	gain
+chr13	61660180	63785757	nssv14082487	Uncertain_Significance	gain
+chr13	62066629	62678674	nssv13639614	Uncertain significance: likely benign	gain
+chr13	62824198	63405112	nssv13639604	Uncertain_Significance	gain
+chr13	63993754	64995614	nssv13638539	Uncertain significance: likely benign	gain
+chr13	64209361	65412628	nssv13648703	Uncertain significance: likely benign	gain
+chr13	65921389	66050543	nssv13650940	Uncertain_Significance	gain
+chr13	65943200	66491226	nssv584665	Benign	gain
+chr13	66198234	67126195	nssv706276	Uncertain significance: likely benign	gain
+chr13	66198516	67233859	nssv13642816	Uncertain_Significance	gain
+chr13	66198516	67233859	nssv13648228	Uncertain_Significance	gain
+chr13	66215785	67215733	nssv1610387	Uncertain_Significance	gain
+chr13	66219649	67200316	nssv580822	Uncertain_Significance	gain
+chr13	66287962	67126195	nssv583090	Uncertain_Significance	gain
+chr13	66544824	67212201	nssv1601979	Uncertain_Significance	gain
+chr13	66692554	71458524	nssv3396719	Uncertain_Significance	gain
+chr13	67067430	67090314	nssv13644185	Uncertain_Significance	gain
+chr13	67582414	67733017	nssv13646127	Uncertain_Significance	gain
+chr13	67593034	67716015	nssv13646077	Benign	gain
+chr13	67994350	69565048	nssv13653417	Uncertain_Significance	gain
+chr13	68015504	69565048	nssv13645617	Uncertain_Significance	gain
+chr13	69509380	69615712	nssv1608978	Benign	gain
+chr13	70393679	71164323	nssv580823	Uncertain_Significance	gain
+chr13	70579751	71612767	nssv3395043	Uncertain significance: likely benign	gain
+chr13	70964826	71889867	nssv3394937	Uncertain significance: likely benign	gain
+chr13	73803511	74364906	nssv13651252	Uncertain_Significance	gain
+chr13	73805203	74339076	nssv1495443	Uncertain significance: likely benign	gain
+chr13	75296586	75400646	nssv13643338	Uncertain_Significance	gain
+chr13	78011656	79076111	nssv3397391	Uncertain_Significance	gain
+chr13	78326343	78940740	nssv13646633	Uncertain_Significance	gain
+chr13	78350147	78923320	nssv580824	Uncertain_Significance	gain
+chr13	79669875	79820692	nssv1603375	Uncertain significance: likely benign	gain
+chr13	82400657	82607124	nssv1604299	Uncertain significance: likely benign	gain
+chr13	83119493	90849607	nssv13655041	Uncertain_Significance	gain
+chr13	84626958	92490593	nssv3397310	Uncertain_Significance	gain
+chr13	84753698	84909484	nssv13649226	Uncertain_Significance	gain
+chr13	85670752	90457895	nssv1603616	Uncertain_Significance	gain
+chr13	87111221	87361937	nssv1608734	Benign	gain
+chr13	87253944	87441182	nssv13645449	Uncertain_Significance	gain
+chr13	88275485	88986585	nssv1610470	Uncertain significance: likely benign	gain
+chr13	89408919	90118030	nssv1601890	Uncertain significance: likely benign	gain
+chr13	89476228	89668705	nssv1601346	Uncertain significance: likely benign	gain
+chr13	89476228	89668705	nssv1602829	Uncertain significance: likely benign	gain
+chr13	91370887	91878374	nssv1610398	Uncertain_Significance	gain
+chr13	93022243	93068561	nssv13656282	Uncertain_Significance	gain
+chr13	93103384	94100309	nssv13650313	Uncertain_Significance	gain
+chr13	93766183	93917261	nssv13654865	Uncertain_Significance	gain
+chr13	94342108	94423150	nssv1608982	Benign	gain
+chr13	94521535	95111509	nssv3397179	Uncertain_Significance	gain
+chr13	94521535	95111513	nssv13641432	Uncertain_Significance	gain
+chr13	94521958	95101443	nssv1603642	Uncertain_Significance	gain
+chr13	94521958	95101443	nssv1609617	Uncertain_Significance	gain
+chr13	94522836	95111524	nssv13648796	Uncertain_Significance	gain
+chr13	94560361	95101443	nssv582733	Uncertain_Significance	gain
+chr13	95963328	96016904	nssv1609017	Benign	gain
+chr13	96917312	97627023	nssv580827	Uncertain_Significance	gain
+chr13	98326729	100150699	nssv580828	Uncertain_Significance	gain
+chr13	99106679	99746591	nssv13650608	Uncertain_Significance	gain
+chr13	99910599	100909782	nssv13640643	Uncertain_Significance	gain
+chr13	100065891	100276245	nssv13640872	Uncertain_Significance	gain
+chr13	100636949	100638575	nssv1602417	Uncertain significance: likely benign	gain
+chr13	100637555	100638361	nssv1604416	Uncertain significance: likely benign	gain
+chr13	100637555	100638663	nssv1604408	Uncertain significance: likely benign	gain
+chr13	101615127	102288541	nssv580829	Uncertain_Significance	gain
+chr13	103168980	103514358	nssv580830	Uncertain_Significance	gain
+chr13	103219510	103513884	nssv13651396	Uncertain_Significance	gain
+chr13	103219510	103513884	nssv13651543	Uncertain_Significance	gain
+chr13	103441540	103493212	nssv13648250	Uncertain_Significance	gain
+chr13	103470506	104602777	nssv13640788	Uncertain_Significance	gain
+chr13	103474430	104590720	nssv580831	Uncertain_Significance	gain
+chr13	103924981	104546369	nssv3397334	Uncertain_Significance	gain
+chr13	103924981	104547066	nssv13646849	Uncertain significance: likely benign	gain
+chr13	103940340	104473494	nssv3396191	Benign	gain
+chr13	103940340	104473494	nssv576531	Benign	gain
+chr13	104017072	104699291	nssv13644923	Uncertain significance: likely benign	gain
+chr13	104290156	105143800	nssv13647580	Uncertain_Significance	gain
+chr13	104566837	111510243	nssv1608249	Uncertain_Significance	gain
+chr13	106076283	115107733	nssv3397312	Uncertain_Significance	gain
+chr13	106941498	113674752	nssv13651288	Uncertain_Significance	gain
+chr13	107382603	108238714	nssv14082112	Uncertain_Significance	gain
+chr13	107627494	108570605	nssv1604317	Uncertain significance: likely benign	gain
+chr13	108193212	108360984	nssv1602288	Uncertain significance: likely benign	gain
+chr13	110515181	111574093	nssv582533	Uncertain_Significance	gain
+chr13	111058487	111317455	nssv13653290	Uncertain_Significance	gain
+chr13	111516308	111574034	nssv13653311	Uncertain_Significance	gain
+chr13	112975916	113206568	nssv13652779	Uncertain_Significance	gain
+chr13	113105618	113538619	nssv581924	Benign	gain
+chr13	113172628	113402995	nssv13645376	Uncertain_Significance	gain
+chr13	113761167	113794870	nssv13652630	Uncertain significance: likely benign	gain
+chr13	113761167	113794870	nssv13655352	Uncertain significance: likely benign	gain
+chr13	113773531	113801772	nssv13656379	Uncertain significance: likely benign	gain
+chr13	113982703	114325791	nssv580832	Uncertain_Significance	gain
+chr13	114034109	114076944	nssv1609022	Uncertain significance: likely benign	gain
+chr13	114517404	114528430	nssv1608740	Uncertain significance: likely benign	gain
+chr13	114517404	114528430	nssv1608745	Benign	gain
+chr13	114739948	115085141	nssv580834	Uncertain_Significance	gain
+chr13	114741756	114810347	nssv1608741	Uncertain significance: likely benign	gain
+chr13	114741756	114810347	nssv1608989	Uncertain significance: likely benign	gain
+chr13	114741756	114871923	nssv585009	Uncertain significance: likely benign	gain
+chr13	114763850	114810347	nssv1608986	Uncertain significance: likely benign	gain
+chr13	114781653	114893774	nssv583570	Benign	gain
+chr13	114792893	114886865	nssv581609	Benign	gain
+chr13	114893641	115059051	nssv13640041	Uncertain_Significance	gain
+chr13	114893773	115043128	nssv3396105	Uncertain_Significance	gain
+chr13	114957932	115059020	nssv580835	Uncertain_Significance	gain
+chr13	114990360	115085141	nssv3395582	Benign	gain
+chr13	114998454	115085141	nssv13656047	Uncertain_Significance	gain
+chr13	114998560	115054713	nssv3395638	Benign	gain
+chr13	115004651	115051706	nssv13644097	Uncertain_Significance	gain
+chr13	115007799	115043118	nssv1602120	Uncertain significance: likely benign	gain
+chr13	115007799	115047716	nssv1601528	Uncertain significance: likely benign	gain
+chr13	115011391	115059049	nssv1602047	Uncertain significance: likely benign	gain

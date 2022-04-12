@@ -1,0 +1,173 @@
+chr19	61111	113418	nssv584711	Benign	loss
+chr19	61111	186241	nssv1609294	Benign	loss
+chr19	74458	113418	nssv583652	Benign	loss
+chr19	74502	113418	nssv1609297	Benign	loss
+chr19	259407	296946	nssv13650442	Uncertain_Significance	loss
+chr19	535326	807456	nssv13645747	Uncertain_Significance	loss
+chr19	1952589	2050814	nssv13641193	Benign	loss
+chr19	4153713	4179574	nssv13640961	Uncertain_Significance	loss
+chr19	4417982	4721878	nssv580436	Uncertain_Significance	loss
+chr19	7129707	7296452	nssv13647169	Uncertain_Significance	loss
+chr19	11039100	11040126	nssv13653136	Uncertain significance: likely benign	loss
+chr19	12468718	12878860	nssv3396995	Uncertain_Significance	loss
+chr19	13644738	14369645	nssv580437	Uncertain_Significance	loss
+chr19	14517720	15521581	nssv582814	Uncertain_Significance	loss
+chr19	15222978	15302144	nssv1610555	Uncertain_Significance	loss
+chr19	16595954	16783029	nssv580438	Uncertain_Significance	loss
+chr19	17003239	17037020	nssv581562	Benign	loss
+chr19	17325372	17840956	nssv13642041	Uncertain_Significance	loss
+chr19	17357703	17840956	nssv3394956	Uncertain_Significance	loss
+chr19	17419015	17816191	nssv3396091	Uncertain_Significance	loss
+chr19	17514058	17516353	nssv13650134	Uncertain_Significance	loss
+chr19	18244779	18534927	nssv1603074	Uncertain_Significance	loss
+chr19	19878310	21276371	nssv3396944	Uncertain_Significance	loss
+chr19	20061149	20595412	nssv13643763	Uncertain_Significance	loss
+chr19	20385316	20484861	nssv584822	Benign	loss
+chr19	20445975	20817128	nssv3395128	Uncertain_Significance	loss
+chr19	20574294	21001349	nssv580439	Uncertain_Significance	loss
+chr19	20630765	20682607	nssv707239	Benign	loss
+chr19	20641425	20718976	nssv707552	Benign	loss
+chr19	21041854	21348237	nssv1415498	Uncertain_Significance	loss
+chr19	21255362	21349259	nssv13641485	Uncertain_Significance	loss
+chr19	22020156	22101914	nssv1605094	Uncertain significance: likely benign	loss
+chr19	22253864	22301793	nssv581764	Benign	loss
+chr19	22253864	22301793	nssv581802	Benign	loss
+chr19	23170412	23372286	nssv1610407	Uncertain_Significance	loss
+chr19	23610078	24099631	nssv13651070	Uncertain_Significance	loss
+chr19	23620944	24081999	nssv13644162	Uncertain significance: likely benign	loss
+chr19	23621428	24081999	nssv13641604	Uncertain_Significance	loss
+chr19	23621428	24081999	nssv13653938	Uncertain_Significance	loss
+chr19	23621428	24081999	nssv13655949	Uncertain_Significance	loss
+chr19	23621428	24081999	nssv3395129	Uncertain_Significance	loss
+chr19	23621428	24081999	nssv3395358	Uncertain_Significance	loss
+chr19	23621428	24081999	nssv3395463	Uncertain_Significance	loss
+chr19	23624527	24311535	nssv581971	Benign	loss
+chr19	23624727	24061026	nssv1415438	Uncertain_Significance	loss
+chr19	23624727	24061026	nssv1601468	Uncertain significance: likely benign	loss
+chr19	23624727	24061026	nssv1601755	Uncertain significance: likely benign	loss
+chr19	23624806	23868394	nssv1604492	Uncertain significance: likely benign	loss
+chr19	23624806	24043127	nssv1603073	Uncertain significance: likely benign	loss
+chr19	23624806	24043127	nssv584154	Benign	loss
+chr19	28297871	28318379	nssv1601325	Uncertain significance: likely benign	loss
+chr19	28297871	28318379	nssv1601378	Uncertain significance: likely benign	loss
+chr19	28297871	28318379	nssv1604529	Uncertain significance: likely benign	loss
+chr19	28403459	28431785	nssv13641241	Uncertain_Significance	loss
+chr19	28978137	29601982	nssv1610358	Uncertain_Significance	loss
+chr19	29140833	29531957	nssv707186	Benign	loss
+chr19	29164261	29630682	nssv3397232	Uncertain_Significance	loss
+chr19	31433566	32056209	nssv13639345	Uncertain_Significance	loss
+chr19	31792863	32335982	nssv13649288	Uncertain_Significance	loss
+chr19	32803283	33026305	nssv3395130	Uncertain_Significance	loss
+chr19	32810556	33028490	nssv3397355	Uncertain_Significance	loss
+chr19	32960548	33334667	nssv580440	Uncertain_Significance	loss
+chr19	33321552	33390899	nssv13643318	Uncertain significance: likely benign	loss
+chr19	33762255	34353184	nssv13642104	Uncertain significance: likely benign	loss
+chr19	34229317	34488947	nssv582832	Uncertain_Significance	loss
+chr19	36147110	37249653	nssv13643183	Uncertain_Significance	loss
+chr19	36551767	36582304	nssv13651008	Uncertain_Significance	loss
+chr19	36758131	37865118	nssv13653496	Uncertain_Significance	loss
+chr19	36910873	37705345	nssv13640698	Uncertain_Significance	loss
+chr19	36985171	37207122	nssv13655382	Uncertain_Significance	loss
+chr19	37367724	37440672	nssv13653101	Uncertain significance: likely benign	loss
+chr19	37431410	37747108	nssv13645165	Uncertain_Significance	loss
+chr19	37598297	38170622	nssv3396894	Uncertain_Significance	loss
+chr19	38177413	38204045	nssv13649162	Uncertain_Significance	loss
+chr19	39500830	39525758	nssv1609284	Uncertain_Significance	loss
+chr19	39500830	39525758	nssv3396511	Uncertain_Significance	loss
+chr19	40194965	40276461	nssv13656173	Uncertain_Significance	loss
+chr19	40374794	40699742	nssv13642032	Uncertain_Significance	loss
+chr19	40403191	40694875	nssv1604660	Uncertain_Significance	loss
+chr19	41448820	41510949	nssv1608639	Benign	loss
+chr19	41448820	41510949	nssv1609263	Benign	loss
+chr19	41448820	41510949	nssv583662	Benign	loss
+chr19	41450200	41512853	nssv13654223	Benign	loss
+chr19	41882242	41928551	nssv13643271	Uncertain_Significance	loss
+chr19	42259385	42274960	nssv13654584	Uncertain significance: likely benign	loss
+chr19	42259385	42274960	nssv13655920	Uncertain significance: likely benign	loss
+chr19	43200194	43746087	nssv13638995	Benign	loss
+chr19	43200194	43746087	nssv13650413	Benign	loss
+chr19	43200194	43772111	nssv13643645	Benign	loss
+chr19	43200194	43772111	nssv13646446	Benign	loss
+chr19	43200194	43808396	nssv13638752	Benign	loss
+chr19	43200194	43808396	nssv13645046	Benign	loss
+chr19	43200194	43808396	nssv13647992	Benign	loss
+chr19	43200194	43808396	nssv13652335	Benign	loss
+chr19	43200194	43808396	nssv13653599	Benign	loss
+chr19	43242794	43741310	nssv578414	Benign	loss
+chr19	43242794	43741310	nssv578425	Benign	loss
+chr19	43242794	43741310	nssv706593	Benign	loss
+chr19	43242810	43529887	nssv1602178	Uncertain significance: likely benign	loss
+chr19	43242810	43529887	nssv1603746	Uncertain significance: likely benign	loss
+chr19	43242810	43529887	nssv1604338	Uncertain significance: likely benign	loss
+chr19	43242810	43529887	nssv1604515	Uncertain significance: likely benign	loss
+chr19	43242810	43529887	nssv1604743	Benign	loss
+chr19	43242810	43584499	nssv1603276	Uncertain significance: likely benign	loss
+chr19	43242810	43584499	nssv1604583	Uncertain significance: likely benign	loss
+chr19	43242810	43741714	nssv1604209	Uncertain significance: likely benign	loss
+chr19	43242810	43741714	nssv584331	Benign	loss
+chr19	43294455	43545190	nssv13639998	Benign	loss
+chr19	43294455	43545190	nssv13640354	Benign	loss
+chr19	43294455	43545190	nssv13641382	Benign	loss
+chr19	43294455	43545190	nssv13645855	Benign	loss
+chr19	43294455	43545190	nssv13649609	Benign	loss
+chr19	43294455	43545190	nssv13651364	Benign	loss
+chr19	43354258	43645608	nssv581884	Benign	loss
+chr19	43354258	43645608	nssv581891	Benign	loss
+chr19	43354258	43741310	nssv581882	Benign	loss
+chr19	43354261	43529887	nssv1601283	Uncertain significance: likely benign	loss
+chr19	43354261	43529887	nssv1601415	Uncertain significance: likely benign	loss
+chr19	43354261	43529887	nssv1601888	Uncertain significance: likely benign	loss
+chr19	43354261	43529887	nssv1602049	Uncertain significance: likely benign	loss
+chr19	43354261	43529887	nssv1603224	Uncertain significance: likely benign	loss
+chr19	43354261	43529887	nssv1603861	Uncertain significance: likely benign	loss
+chr19	43354261	43529887	nssv1603884	Uncertain significance: likely benign	loss
+chr19	43354261	43529887	nssv1604594	Uncertain significance: likely benign	loss
+chr19	43354261	43529887	nssv1604864	Uncertain significance: likely benign	loss
+chr19	43354261	43584499	nssv1603910	Uncertain significance: likely benign	loss
+chr19	43354261	43584499	nssv1605052	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1601647	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1602406	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1602536	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1602643	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1603055	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1603061	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1603093	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1604218	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1604451	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1604525	Uncertain significance: likely benign	loss
+chr19	43354261	43741714	nssv1605036	Uncertain significance: likely benign	loss
+chr19	43422946	43741714	nssv1602112	Uncertain significance: likely benign	loss
+chr19	43423005	43808396	nssv13639086	Benign	loss
+chr19	43479132	43741714	nssv1601799	Uncertain significance: likely benign	loss
+chr19	43479132	43741714	nssv1603433	Uncertain significance: likely benign	loss
+chr19	43495633	43772111	nssv13642312	Benign	loss
+chr19	43495633	43772111	nssv13654125	Benign	loss
+chr19	43529827	43741714	nssv1603235	Uncertain significance: likely benign	loss
+chr19	43529827	43741714	nssv1603744	Uncertain significance: likely benign	loss
+chr19	43529827	43741714	nssv1604696	Uncertain significance: likely benign	loss
+chr19	43545248	43870714	nssv13640144	Benign	loss
+chr19	43689999	43757736	nssv707423	Benign	loss
+chr19	43691305	43746118	nssv707487	Benign	loss
+chr19	43691305	43757736	nssv707471	Benign	loss
+chr19	43708961	43757736	nssv707544	Benign	loss
+chr19	44300415	45639540	nssv13642608	Uncertain_Significance	loss
+chr19	45351706	45385809	nssv581620	Benign	loss
+chr19	45351706	45385809	nssv581628	Benign	loss
+chr19	45985115	46213776	nssv580441	Uncertain_Significance	loss
+chr19	48334929	48402210	nssv13641803	Uncertain_Significance	loss
+chr19	49185468	49206253	nssv13651631	Benign	loss
+chr19	50958538	50986348	nssv13645275	Uncertain_Significance	loss
+chr19	52798799	52890248	nssv583653	Benign	loss
+chr19	52860032	52890248	nssv1609285	Uncertain significance: likely benign	loss
+chr19	53210487	53695881	nssv580442	Uncertain_Significance	loss
+chr19	54726782	54744331	nssv13654532	Benign	loss
+chr19	54726782	54746032	nssv13640265	Benign	loss
+chr19	54726782	54746032	nssv13642898	Benign	loss
+chr19	55028721	55148430	nssv13646490	Benign	loss
+chr19	55116559	55164779	nssv584632	Benign	loss
+chr19	55148429	55176347	nssv13642003	Benign	loss
+chr19	55685935	55692713	nssv13644697	Uncertain_Significance	loss
+chr19	56579747	56680505	nssv1609271	Uncertain_Significance	loss
+chr19	57678917	57748194	nssv1609264	Uncertain_Significance	loss
+chr19	58026983	58246176	nssv13639611	Uncertain_Significance	loss
+chr19	58918649	59092496	nssv585059	Uncertain significance: likely benign	loss
