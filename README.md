@@ -21,8 +21,9 @@ Required R Libraries:
 - tidyverse
 
 # Set-Up
-Quick Start Manual: Follow the instructions to get Benign-Ex up and running and process the provided sample dataset.
-User Manual: Follow the instructions to modify Benign-Ex and process your own dataset(s).
+**Quick Start Manual**: Follow the instructions to get Benign-Ex up and running and process the provided sample dataset.
+
+**User Manual**: Follow the instructions to modify Benign-Ex and process your own dataset(s).
 
 # Command to run BENIGNEX:
 
