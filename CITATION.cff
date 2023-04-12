@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  A Comprehensive List of Human Microdeletion and
+  Microduplication Syndromes
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - family-names: Alyssa S
+    given-names: Wetzel
+    orcid: 'https://orcid.org/0000-0002-0448-6285'
+  - given-names: Heather
+    family-names: Major
+  - orcid: 'https://orcid.org/0000-0002-2146-5101'
+    given-names: Mrutyunjaya
+    family-names: Parida
+  - given-names: J. Robert
+    family-names: Manak
+    orcid: 'https://orcid.org/0000-0002-6562-7694'
+  - family-names: Benjamin W
+    given-names: Darbro
+    orcid: 'https://orcid.org/0000-0001-9279-356X'
+identifiers:
+  - type: url
+    value: 'https://zenodo.org/badge/latestdoi/459754830'
+    description: DOI
+repository-code: 'https://github.com/aswetzel/MMS'
+version: 1.0.0
+date-released: '2022-07-30'
+doi: 10.5281/zenodo.6941642
