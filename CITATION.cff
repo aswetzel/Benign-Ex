@@ -1,10 +1,8 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 message: 'If you use this software, please cite it as below.'
+ 'Benign-Ex: Delineating Regions of the Human Genome Benign to Copy Number Variation. Alyssa S. Wetzel, Heather Major, Mrutyunjaya Parida, J. Robert Manak, Benjamin W. Darbro. medRxiv 2022.10.17.22280252; doi: https://doi.org/10.1101/2022.10.17.22280252'
 title: >-
-  Benign-Ex: Delineating Regions of the Human Genome Benign to Copy Number Variation. Alyssa S. Wetzel, Heather Major, Mrutyunjaya Parida, J. Robert Manak, Benjamin W. Darbro. medRxiv 2022.10.17.22280252; doi: https://doi.org/10.1101/2022.10.17.22280252
+  Benign-Ex: Delineating Regions of the Human Genome Benign to Copy Number Variation
 type: software
 authors:
   - family-names: Alyssa S
