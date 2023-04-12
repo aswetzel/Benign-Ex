@@ -30,7 +30,7 @@ Required R Libraries:
     python CODE/INTERFACE_BENIGNEX.py PARAMETERS/AUTOMATION
 
 # Citation
-If you use the software, please cite: TBD
+If you use the software, please cite: TBD [![DOI](https://zenodo.org/badge/459754830.svg)](https://zenodo.org/badge/latestdoi/459754830)
 
 # Future Improvements
 - Support for Python3
