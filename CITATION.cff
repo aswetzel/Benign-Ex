@@ -2,10 +2,9 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: >-
-  A Comprehensive List of Human Microdeletion and
-  Microduplication Syndromes
 message: 'If you use this software, please cite it as below.'
+title: >-
+  Benign-Ex: Delineating Regions of the Human Genome Benign to Copy Number Variation. Alyssa S. Wetzel, Heather Major, Mrutyunjaya Parida, J. Robert Manak, Benjamin W. Darbro. medRxiv 2022.10.17.22280252; doi: https://doi.org/10.1101/2022.10.17.22280252
 type: software
 authors:
   - family-names: Alyssa S
@@ -22,10 +21,6 @@ authors:
   - family-names: Benjamin W
     given-names: Darbro
     orcid: 'https://orcid.org/0000-0001-9279-356X'
-identifiers:
-  - type: url
-    value: 'https://zenodo.org/badge/latestdoi/459754830'
-    description: DOI
 repository-code: 'https://github.com/aswetzel/MMS'
 version: 1.0.0
 date-released: '2022-07-30'
